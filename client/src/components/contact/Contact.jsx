@@ -1,5 +1,5 @@
 
-import {Purple , CurrentLine , Orange ,Cyan, Red} from "../../helper/color"
+import{Purple , CurrentLine , Orange ,Cyan, Red} from '../../helper/color'
 
 export default function Contact() {
     return (

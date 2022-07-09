@@ -1,8 +1,9 @@
 import { Fragment } from "react";
 import { Pink, CurrentLine, Orange } from "../../helper/color";
-import Contact from './contact';
 import NotFound from '../../assets/no-found.gif';
 import Spinner from '../spinner'
+import Contact from './Contact';
+
 
 export default function Contacts({ contacts, loading }) {
     return (
