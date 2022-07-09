@@ -1,5 +1,5 @@
 
-export default function Addmember(){
+export default function Addcontact(){
     return(
         <div>
             hiiiii
