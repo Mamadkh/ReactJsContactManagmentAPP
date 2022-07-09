@@ -1,7 +1,7 @@
 
 
-import SearchContact from './contact/SearchContact';
-import { Background, Purple } from '../helpers/colors'
+import {Background,Purple} from '../helper/color'
+import SearchContact from './contact/Searchcontact';
 
 export default function Navbar() {
     return (

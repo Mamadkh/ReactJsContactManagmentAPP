@@ -1,6 +1,6 @@
 
 
-import { Purple} from './../../helpers/colors';
+import { Purple} from './../../helper/color';
 
 export default function SearchContact() {
     return (
